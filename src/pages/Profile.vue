@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Welcome bro to my store</h1>
+        <h1>Welcome bro to my </h1>
     </div>
 </template>
 
